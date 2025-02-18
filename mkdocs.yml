@@ -4,5 +4,9 @@ nav:
   - Manual de Usuario: Manual_de_Usuario.md
   - Guía de Referencia: Guia_de_Referencia.md
   - Guía de Instalación: Guia_de_Instalacion.md
+  - Manual de Usuario: Manual_de_Usuario.pdf
+  - Guía de Referencia: Guia_de_Referencia.pdf
+  - Guía de Instalación: Guia_de_Instalacion.pdf
+theme:
 theme:
   name: mkdocs
